@@ -10,7 +10,7 @@ Please send your solution via github link. Including a working demo is a plus.
 
 ## Demo
 
-https://paveleremin.github.io/test-tooltip
+https://paveleremin.github.io/test-tooltip/
 
 ## Todo
 
